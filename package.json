@@ -1,18 +1,17 @@
 {
-  "name" : "UlboraCmsMean",
-  "version" : "2.0.0",
-  "description" : "UlboraCms",
-  "keywords" : [ "Ulbora CMS", "Node.js", "Ken",
-  "Williamson", "micbutton.com" ],
+  "name" : "AngularJSHelloWorld",
+  "version" : "1.0.0",
+  "description" : "AngularJS",
+  "keywords" : [ ],
   "author" : {
-    "name" : "Ken Williamson",
-    "email" : "sales@drivensolutions.com",
-    "url" : "http://www.drivensolutions.com/"
+    "name" : "David",
+    "email" : "",
+    "url" : ""
   },
-  "homepage" : "http://www.ulboracms.org",
+  "homepage" : "",
   "repository" : {
     "type" : "git",
-    "url" : "https://github.com/Ulbora/ulboracms"
+    "url" : "https://github.com/dicgf8/AngularJsHelloWorld"
   },
   "engines" : {
     "node" : ">= 0.6.0",
